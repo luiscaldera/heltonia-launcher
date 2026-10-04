@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "launcher": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "url": "https://heltonia.com/launcher/HeltoniaLauncher.exe",
-    "sha256": "2d7592771b1efd334d853fc88e39909cedd631510a1c187fa79e339627634455"
+    "sha256": "39172d79cb76792303de0b2d17df8cb4240551ff73192457fd62a851685615cd"
   },
   "client": {
     "name": "HTC",
