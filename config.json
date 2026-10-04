@@ -1,1 +1,31 @@
-{}
+{
+  "schema": 1,
+  "launcher": {
+    "version": "",
+    "url": "https://heltonia.com/launcher/HeltoniaLauncher.exe",
+    "sha256": ""
+  },
+  "client": {
+    "name": "HTC",
+    "displayName": "Heltonia Tibia Client",
+    "version": "2026.10.04.1716",
+    "exe": "HTC.exe",
+    "manifestUrl": "https://heltonia.com/launcher/client/manifest.json",
+    "filesUrl": "https://heltonia.com/launcher/client/files/",
+    "fullUrl": "https://heltonia.com/launcher/client/HTC-full.zip",
+    "loginUrl": "https://heltonia.com/login.php"
+  },
+  "links": {
+    "website": "https://heltonia.com",
+    "news": "https://heltonia.com/?news",
+    "discord": ""
+  },
+  "news": [
+    {
+      "title": "¡Nuevo launcher de Heltonia!",
+      "date": "2026-10-04",
+      "summary": "Instala y actualiza el cliente HTC automáticamente: solo se descarga lo que cambia.",
+      "url": "https://heltonia.com/?news"
+    }
+  ]
+}
