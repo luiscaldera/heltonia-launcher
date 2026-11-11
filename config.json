@@ -8,7 +8,7 @@
   "client": {
     "name": "HTC",
     "displayName": "Heltonia Tibia Client",
-    "version": "2026.11.11.1735",
+    "version": "2026.11.11.2150",
     "exe": "HTC.exe",
     "manifestUrl": "https://heltonia.com/launcher/client/manifest.json",
     "filesUrl": "https://heltonia.com/launcher/client/files/",
